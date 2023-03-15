@@ -1,0 +1,7 @@
+{
+    "country_list":[
+        { "id" : 1, "country" :"Argentina", "capital" : "Buenos Aires"},
+        { "id" : 2, "country" : "Brazil", "capital" : "Brasília"},
+        { "id" : 3, "country" : "China", "capital" : "Beijing"}
+    ]
+}
